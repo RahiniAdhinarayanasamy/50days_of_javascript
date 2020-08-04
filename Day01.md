@@ -26,13 +26,11 @@ var b = a;
 4. Define a variable a with var and initialize it to a value of 9.
 ~~~
 OUTPUT:
-
 var a = 9;
 ~~~
 5. Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will not be undefined.
 ~~~
 OUTPUT:
-
 // Only change code below this line
 var a = 5;
 var b = 10;
